@@ -1,0 +1,23 @@
+Downloaded files on Ada
+
+lung cancer https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=ERR12500675&display=metadata
+
+colon cancer https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=ERR12554186&display=metadata
+
+tongue cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-12534/sdrf
+
+Not started to download yet
+
+cervical cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-9281/sdrf
+
+gastric cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-GEOD-41476/sdrf
+
+prostate cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-9831/sdrf
+
+breast cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-GEOD-36565/sdrf
+
+melanoma befroe/after treatment RNA-Seq https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-GEOD-50535/sdrf
+
+Bladder cancer https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-GEOD-23732/sdrf
+
+Lymphoma https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7721/sdrf
